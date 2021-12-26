@@ -1,8 +1,12 @@
-# Games on GitHub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!-- lint ignore awesome-git-repo-age -->
 
-> A curated list of games that teach you a programming language.
+# Awesome Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
+<!-- Uncomment the awesome badge when the repository is added to awesome main list.
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+-->
+
+Collection of Games that have the source code available on GitHub
 
 ## Contents
 
@@ -40,6 +44,7 @@ Below is a list of open source games and game-related projects that can be found
 - [Just The Source](#just-the-source)
 - [Frameworks/Engines/Libraries](#frameworksengineslibraries)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#mapshackspluginsutilitiesall-of-the-things)
+- [Contribute](#contribute)
 
 ## Major Companies
 
