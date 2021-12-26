@@ -452,7 +452,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Cocos2d for Android](https://github.com/ZhouWeikuan/cocos2d) - Cocos2d for Android, based on cocos2d-android-0.82, and now ported from cocos2d-iphone 0.99.4.
 - [Cocos2d for iPhone](https://github.com/cocos2d/cocos2d-iphone) - Framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-C.
 - [Cocos2d for HTML5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
-- [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.
+- [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, macOS, Windows and Linux.
 - [Crafty](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
 - [CutJS](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 - [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
@@ -495,7 +495,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
 - [Solarus](https://github.com/christopho/solarus) - An Action-RPG game engine written in C++.
 - [Spring](https://github.com/spring/spring) - Real Time Strategy game engine.
-- [Starling](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, OS X), and to the browser (via the Flash plugin).
+- [Starling](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, macOS), and to the browser (via the Flash plugin).
 - [Superpowers](https://github.com/superpowers) - TypeScript & ThreeJS powered game engine and framework (2D & 3D with WebGL)
 - [Tesseract](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 - [Three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
@@ -523,8 +523,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Leaderboard(Python)](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in Python).
 - [Leaderboard(Ruby)](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in Ruby).
 - [Leaderboard(Scala)](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in Scala).
-- [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
-- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
+- [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and macOS.
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to macOS as a first class citizen.
 - [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 - [Stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
 - [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
