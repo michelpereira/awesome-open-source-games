@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
 
-Collection of Games that have the source code available on GitHub
+Open Source games on GitHub
 
 ## Contents
 
@@ -36,7 +36,6 @@ Collection of Games that have the source code available on GitHub
 	- [Programming](#programming)
 	- [Sandbox](#sandbox-1)
 	- [Strategy](#strategy-1)
-	- [Others](#others-1)
 - [Mobile Games](#mobile-games)
 	- [Android](#android)
 	- [IOS](#ios)
@@ -44,7 +43,6 @@ Collection of Games that have the source code available on GitHub
 - [Just The Source](#just-the-source)
 - [Frameworks/Engines/Libraries](#frameworksengineslibraries)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#mapshackspluginsutilitiesall-of-the-things)
-- [Contribute](#contribute)
 
 ## Major Companies
 
@@ -70,10 +68,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Boardgame
 
-- [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
-- [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS.
+- [3D Hartwing Chess
+Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
+- [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JavaScript.
 - [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.
-- [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
+- [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript.
 - [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 - [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch.
 
@@ -82,19 +81,19 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 - [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae.
 - [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development.
-- [Arashi](https://github.com/stephank/arashi-js) - Arashi is a clone of the Arcade game Tempest.
+- [Arashi](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest.
 - [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids.
 - [Avabranch](https://github.com/Zolmeister/avabranch) - GitHub Game Off 2012 entry.
 - [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game.
 - [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
-- [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS.
+- [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJavaScript.
 - [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
 - [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game.
 - [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers.
 - [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
 - [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser.
 - [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser.
-- [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS.
+- [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJavaScript.
 - [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel.
 - [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in CoffeeScript.
 - [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail.
@@ -106,7 +105,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game.
 - [Drakonas](https://github.com/Casmo/Drakonas) - Classic shoot 'em up game build with the Three.js library.
 - [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library.
-- [DuckHunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator.
+- [DuckHunt JavaScript](https://github.com/MattSurabian/DuckHunt-JavaScript) - DuckHunt ported to JavaScript and HTML5 with a level creator.
 - [EKG Runner](https://github.com/Myztiq/ekgrunner) - Game made in 48 hours for the 2013 Global Game Jam.
 - [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind.
 - [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) - JavaScript MegaMan clone.
@@ -117,16 +116,16 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defense.
 - [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them.
 - [HotFix](https://github.com/sdrdis/hotfix) - Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features.
-- [hurry!](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter.
+- [hurry!](https://github.com/hughsk/ludum-dare-27) - Speedy arcade shooter.
 - [Hyperspace Garbage Collector](https://github.com/razh/game-off-2013) - General Hyperspace Waste Management Solutions.
-- [I Spy A Ghost](https://github.com/OmarShehata/I-Spy-A-Ghost) - an experimental p2p multiplayer game made in HTML5/Phaser using WebRTC.
+- [I Spy A Ghost](https://github.com/OmarShehata/I-Spy-A-Ghost) - An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC.
 - [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller.
-- [JumpSuit](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe.
+- [JumpSuit](https://github.com/KordonBleu/jumpsuit) - Multiplayer space shooter set in a wrapped universe.
 - [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
 - [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements.
 - [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game.
 - [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser.
-- [Mode](https://github.com/AdamAtomic/Mode) - Small(but sadly not that simple) demo game built on the Flixel framework.
+- [Mode](https://github.com/AdamAtomic/Mode) - Demo game built on the Flixel framework.
 - [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Simple HTML5 game created with Phaser 2.0.7.
 - [Newton Adventure](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction!
 - [Octocat Jump](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry.
@@ -145,8 +144,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer.
 - [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space.
 - [Square Off!](https://github.com/ScriptaGames/SquareOff) - multiplayer 1v1 air-hockey style game, place squares to deflect the ball.
-- [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJS Framework.
-- [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders) - Remake of Space Invaders in require.js.
+- [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJavaScript Framework.
 - [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine.
 - [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
 - [WPilot](https://github.com/jfd/wpilot) - A browser-based remake of the famous XPilot game, built with Node.js and HTML5.
@@ -158,7 +156,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### RPG
 
-- [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and JavaScript.
+- [Diablo JavaScript](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and JavaScript.
 - [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
 - [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG.
 
@@ -191,8 +189,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams.
 - [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb.
 - [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm.
-- [BitBot](https://github.com/recardona/BitBot) - HTML/JS game where you control a bot, which must sense, plan, and act.
-- [BlicblockJS](https://github.com/cheshire137/blicblock-js) - JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board.
+- [BitBot](https://github.com/recardona/BitBot) - HTML/JavaScript game where you control a bot, which must sense, plan, and act.
+- [BlicblockJavaScript](https://github.com/cheshire137/blicblock-js) - JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board.
 - [Blockrain.js](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that.
 - [Branching Out](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home.
 - [Clone Man](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics.
@@ -219,7 +217,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Push and Fork](https://github.com/Octocarina/game-off-2012) - Puzzle game in which you carry a fork, push blocks, and go back in time.
 - [Shape Experiment](https://github.com/binarymax/shape) - The shape recognition reflex game.
 - [Sliding Puzzle](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game.
-- [Sudoku JS](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind.
+- [Sudoku JavaScript](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind.
 - [Swap](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal.
 - [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations.
 - [Untrusted](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
@@ -402,9 +400,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 - [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
 
-### Others
-
-- [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
 
 ## Mobile Games
 
@@ -458,7 +453,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Allegro 5](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(graphics, sound, etc.).
 - [Ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
 - [Atomic Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - Features 2D and 3D rendering, standards compliant JavaScript, full Player and Editor source on GitHub, Windows & Mac Editors, with deployment to Windows, Mac, WebGL, Android, and iOS from the editor.
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+- [Babylon.js](https://github.com/BabylonJavaScript/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 - [Bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform rendering library.
 - [Chilli Works](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
 - [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - Simple, lightweight, fast and portable 2D rigid body physics library written in C.
@@ -468,16 +463,16 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Cocos2d for HTML5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
 - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, macOS, Windows and Linux.
 - [Crafty](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
-- [CutJS](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
+- [CutJavaScript](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 - [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 - [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
-- [EaselJS](https://github.com/CreateJS/EaselJS) - Library to make working with the Canvas element easier.
-- [EntityJS](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
+- [EaselJavaScript](https://github.com/CreateJavaScript/EaselJavaScript) - Library to make working with the Canvas element easier.
+- [EntityJavaScript](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
 - [Evennia MUD/MU* Creation System](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 - [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
 - [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
 - [Flixel](https://github.com/AdamAtomic/flixel) - Game-making library written entirely in ActionScript 3.
-- [GameJS](https://github.com/gamejs/gamejs) - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame.
+- [GameJavaScript](https://github.com/gamejs/gamejs) - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame.
 - [GamePlay](https://github.com/gameplay3d/GamePlay) - Cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
 - [GemRB](https://github.com/gemrb/gemrb) - Cross-platform implementation of Bioware's Infinity Engine.
 - [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
@@ -486,20 +481,20 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [HaxeFlixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL.
 - [JiGS](https://github.com/Techbot/JiGS-PHP-RPG-engine) - Online RPG and Trading Game Engine built in PHP.
 - [JMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Cutting edge, cross-platform 3D game engine for adventurous Java developers.
-- [Kiwi.js](https://github.com/gamelab/kiwi.js) - Blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
+- [Kiwi.js](https://github.com/gamelab/kiwi.js) - Blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJavaScript for publishing to the AppStore.
 - [LibGDX](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework.
 - [LibRocket](https://github.com/librocket/librocket) - C++ user interface package based on the HTML and CSS standards. It is designed as a complete solution for any project's interface needs.
 - [LibSDL2pp](https://github.com/libSDL2pp/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/).
-- [LycheeJS](https://github.com/LazerUnicorns/lycheeJS) - Free HTML5 + native OpenGL Game Engine for Embedded, Console, Mobile, Server and Desktop.
+- [LycheeJavaScript](https://github.com/LazerUnicorns/lycheeJavaScript) - Free HTML5 + native OpenGL Game Engine for Embedded, Console, Mobile, Server and Desktop.
 - [Matter.js](https://github.com/liabru/matter-js) - Matter.js is a JavaScript 2D rigid body physics engine for the web.
-- [MelonJS](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
+- [MelonJavaScript](https://github.com/melonjs/melonJavaScript) - HTML5 game framework for 2D games.
 - [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 - [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for JavaScript.
 - [OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
 - [Oxygine](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
 - [panda.js](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 - [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS) - Modular, extendable, and easy-to-use physics engine for JavaScript.
+- [PhysicsJavaScript](https://github.com/wellcaffeinated/PhysicsJavaScript) - Modular, extendable, and easy-to-use physics engine for JavaScript.
 - [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 - [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 - [PlayCanvas](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
@@ -510,7 +505,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Solarus](https://github.com/christopho/solarus) - An Action-RPG game engine written in C++.
 - [Spring](https://github.com/spring/spring) - Real Time Strategy game engine.
 - [Starling](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, macOS), and to the browser (via the Flash plugin).
-- [Superpowers](https://github.com/superpowers) - TypeScript & ThreeJS powered game engine and framework (2D & 3D with WebGL).
+- [Superpowers](https://github.com/superpowers) - TypeScript & ThreeJavaScript powered game engine and framework (2D & 3D with WebGL).
 - [Tesseract](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 - [Three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
 - [Tiled](https://github.com/bjorn/tiled) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
