@@ -43,6 +43,7 @@ Open Source Games that have the source code available on GitHub.
 - [Just The Source](#just-the-source)
 - [Frameworks/Engines/Libraries](#frameworksengineslibraries)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#mapshackspluginsutilitiesall-of-the-things)
+- [Contribute](#contribute)
 
 ## Major Companies
 
@@ -143,7 +144,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 - [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web.
 - [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer.
 - [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space.
-- [Square Off!](https://github.com/ScriptaGames/SquareOff) - multiplayer 1v1 air-hockey style game, place squares to deflect the ball.
+- [Square Off!](https://github.com/ScriptaGames/SquareOff) - Multiplayer 1v1 air-hockey style game, place squares to deflect the ball.
 - [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJavaScript Framework.
 - [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine.
 - [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
@@ -218,7 +219,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 - [Shape Experiment](https://github.com/binarymax/shape) - The shape recognition reflex game.
 - [Sliding Puzzle](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game.
 - [Sudoku JavaScript](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind.
-- [Swap](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal.
+- [Swap](https://github.com/nmoroze/swap) - New take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal.
 - [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations.
 - [Untrusted](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
 - [Matching Pairs](https://github.com/gamedolphin/matching-pairs) - Made in HTML5 using Phaser as the framework, original assets and generated music.
@@ -250,7 +251,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 ## Native
 
 ### Action
-- [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
+- [OpenTomb](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
 
 ### Arcade
 
@@ -290,7 +291,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 
 - [Open Meridian](https://github.com/OpenMeridian/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated.
-- [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel.
+- [Stendhal](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
 
 ### RPG
 
