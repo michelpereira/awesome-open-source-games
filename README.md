@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
 
-Open Source games on GitHub
+Open Source Games that have the source code available on GitHub.
 
 ## Contents
 
