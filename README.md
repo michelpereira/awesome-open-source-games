@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
 
-Open Source Games that have the source code available on GitHub.
+Open source games that have the source code available on GitHub.
 
 ## Contents
 
@@ -212,7 +212,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 - [Ned Et Les Maki](https://github.com/devnewton/nedetlesmaki) - Puzzle game with isometric 3D graphics inspired by Sokoban.
 - [Orbium](https://github.com/bni/orbium) - Modern version of the 90's game Log!cal.
 - [Parity](https://github.com/abejfehr/parity) - A numbers puzzle game.
-- [Pond](https://github.com/Zolmeister/pond) - A narrow fellow in the Pond.
+- [Pond](https://github.com/Zolmeister/pond) - The Pound is about relaxing and exploring a beautiful world.
 - [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart.
 - [Prism](https://github.com/Zolmeister/prism) - Match all the colors.
 - [Push and Fork](https://github.com/Octocarina/game-off-2012) - Puzzle game in which you carry a fork, push blocks, and go back in time.
