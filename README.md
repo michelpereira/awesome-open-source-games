@@ -283,6 +283,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 - [Ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 - [OpenLara](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine.
 - [Openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
+- [Red Eclipse](https://github.com/redeclipse) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 - [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
 
