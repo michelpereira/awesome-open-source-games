@@ -285,6 +285,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 - [Openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 - [Red Eclipse](https://github.com/redeclipse) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
+- [Urban Terror](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 - [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
 
 
