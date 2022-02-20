@@ -69,21 +69,20 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Boardgame
 
-- [3D Hartwing Chess
-Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
-- [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JavaScript.
+- [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
+- [c4](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
 - [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.
 - [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript.
 - [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
-- [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch.
+- [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
 
 
 ### Arcade
 
-- [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae.
-- [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development.
-- [Arashi](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest.
-- [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids.
+- [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - Help Alge escape by moving through the levels to the escape tube.
+- [Alien Invasion](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
+- [Arashi](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest. Survive as long as possible and score many points as possible.
+- [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
 - [Avabranch](https://github.com/Zolmeister/avabranch) - GitHub Game Off 2012 entry.
 - [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game.
 - [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
