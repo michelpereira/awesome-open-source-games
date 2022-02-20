@@ -83,31 +83,27 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Alien Invasion](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
 - [Arashi](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest. Survive as long as possible and score many points as possible.
 - [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
-- [Avabranch](https://github.com/Zolmeister/avabranch) - GitHub Game Off 2012 entry.
-- [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game.
-- [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
+- [Avabranch](https://github.com/Zolmeister/avabranch) - Get your Ava away from the blocks moving between them.
+- [Ball And Wall](https://github.com/budnix/ball-and-wall) - Destroy the blocks using the Vaus, that is ejected from the ship.
+- [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5. Destroy the blocks using one ball from your ship.
 - [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJavaScript.
-- [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
 - [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game.
 - [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers.
 - [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
-- [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser.
-- [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser.
+- [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Infinite jumping style game inspired by Doodle jump.
 - [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJavaScript.
-- [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel.
 - [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in CoffeeScript.
 - [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail.
 - [Color Quest](https://github.com/redbluegames/game-off-2013) - Infinite runner following a black and white pixel's quest to change into a color pixel.
-- [Core Commiter](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry.
+- [Core Commiter](https://github.com/vladikoff/game-off-2012) - Choose an open source project and help that project by sorting code to proper branches.
 - [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API.
 - [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it.
 - [D3shooter](https://github.com/nsmirn0v/d3shooter) - Asteroids style game in HTML5 as a demo of the d3 library.
-- [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game.
+- [Digger](https://github.com/lutzroeder/digger) - The player is placed in an underground maze and can dig horizontal and vertical tunnels through it.
 - [Drakonas](https://github.com/Casmo/Drakonas) - Classic shoot 'em up game build with the Three.js library.
-- [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library.
+- [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Drill game with a bunny finding good stuff under the earth.
 - [DuckHunt JavaScript](https://github.com/MattSurabian/DuckHunt-JavaScript) - DuckHunt ported to JavaScript and HTML5 with a level creator.
-- [EKG Runner](https://github.com/Myztiq/ekgrunner) - Game made in 48 hours for the 2013 Global Game Jam.
-- [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind.
+- [Emberwind](https://github.com/operasoftware/Emberwind) - Fantasy game port of the indie platform game Emberwind.
 - [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) - JavaScript MegaMan clone.
 - [Flappy Bird](https://github.com/hyspace/flappy) - Flappy bird in html5.
 - [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS.
