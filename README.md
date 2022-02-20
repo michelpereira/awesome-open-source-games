@@ -313,7 +313,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 
 - [Captain Holetooth](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
 - [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
-- [DDraceNetwork](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks
+- [DDraceNetwork](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 - [Elemental One](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework.
 - [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
 - [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
