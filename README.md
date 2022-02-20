@@ -1,5 +1,3 @@
-<!-- lint ignore awesome-git-repo-age -->
-
 # Awesome Open Source Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <!-- Uncomment the awesome badge when the repository is added to awesome main list.
@@ -43,7 +41,6 @@ Open source games that have the source code available on GitHub.
 - [Just The Source](#just-the-source)
 - [Frameworks/Engines/Libraries](#frameworksengineslibraries)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#mapshackspluginsutilitiesall-of-the-things)
-- [Contribute](#contribute)
 
 ## Major Companies
 
@@ -537,6 +534,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
 - [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
