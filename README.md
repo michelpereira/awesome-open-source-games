@@ -278,7 +278,7 @@ Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done
 ### FPS
 
 - [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
-- [Darkest Hour](https://github.com/DarklightGames/DarkestHour) World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
+- [Darkest Hour](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
 - [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 - [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 - [Ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
