@@ -270,12 +270,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### FPS
 
 - [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
+- [Darkest Hour](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
 - [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 - [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 - [Ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 - [OpenLara](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine.
 - [Openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
+- [Red Eclipse](https://github.com/redeclipse) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
+- [Urban Terror](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 - [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
 
 
