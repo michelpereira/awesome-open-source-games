@@ -101,46 +101,39 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Drill game with a bunny finding good stuff under the earth.
 - [DuckHunt JavaScript](https://github.com/MattSurabian/DuckHunt-JavaScript) - DuckHunt ported to JavaScript and HTML5 with a level creator.
 - [Emberwind](https://github.com/operasoftware/Emberwind) - Fantasy game port of the indie platform game Emberwind.
-- [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) - JavaScript MegaMan clone.
-- [Flappy Bird](https://github.com/hyspace/flappy) - Flappy bird in html5.
+- [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in Javascript.
 - [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS.
-- [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - Very simple Flixel game inspired by the Taito classic.
-- [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - Very simple Flixel game inspired by the classic arcade shooter.
-- [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defense.
-- [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them.
+- [Heal 'em All](https://github.com/krzysu/game-off-2013) - Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them.
 - [HotFix](https://github.com/sdrdis/hotfix) - Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features.
-- [hurry!](https://github.com/hughsk/ludum-dare-27) - Speedy arcade shooter.
-- [Hyperspace Garbage Collector](https://github.com/razh/game-off-2013) - General Hyperspace Waste Management Solutions.
+- [hurry!](https://github.com/hughsk/ludum-dare-27) - Dodge and shoot the red targets, grabbing the bombs as you go. Survive as long as possible and try to get a high score.
+- [Hyperspace Garbage Collector](https://github.com/razh/game-off-2013) - Guide N4n through the dangerous trash-heap caverns to reach the Primary Systems Core and restore compliance to the Trash.
 - [I Spy A Ghost](https://github.com/OmarShehata/I-Spy-A-Ghost) - An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC.
-- [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller.
-- [JumpSuit](https://github.com/KordonBleu/jumpsuit) - Multiplayer space shooter set in a wrapped universe.
-- [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
-- [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements.
-- [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game.
+- [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Simple Unity 2d game that is very literally based around the theme of "change" using the classic Jeykll and Hyde story.
+- [JumpSuit](https://github.com/KordonBleu/jumpsuit) - With your awesome suit, jump from planet to planet to conquer them.
+- [Mario 5 HTML](https://github.com/robertkleffner/marioHTML5) - Infinite Mario in HTML5 JavaScript using Canvas and Audio elements.
+- [Mega Girl](https://github.com/ddionisio/game-off-2013) - The hyper-deluxed-super-mega software that beats back those malicious apps.
 - [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser.
-- [Mode](https://github.com/AdamAtomic/Mode) - Demo game built on the Flixel framework.
-- [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Simple HTML5 game created with Phaser 2.0.7.
-- [Newton Adventure](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction!
-- [Octocat Jump](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry.
-- [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter!
+- [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Monster Wants Candy demo is a simple HTML5 game created with Phaser 2.0.7.
+- [Octocat Jump](https://github.com/ogoshen/game-off-2012) - Navigate your ever-jumping Octocat and collect stars for extra points.
+- [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter.
 - [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias.
 - [Phaser Snake](https://github.com/gamedolphin/JavaScript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
 - [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
-- [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity?
+- [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, let's see how long can you hold up as you approach terminal velocity.
 - [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
 - [Raging Gardens](https://github.com/petarov/game-off-2012) - JavaScript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
 - [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
-- [Save The Forest](https://github.com/softvar/save-the-forest) - Save the burning forest!
-- [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree.
-- [Snake](https://github.com/jrgdiz/snake) - Clone of the classic Snake game.
+- [Save The Forest](https://github.com/softvar/save-the-forest) - Fully canvas based HTML5 game where a player has to extinguish fire on tress using his magical water tank in order to save the Burning Forests.
+- [Ski Free](https://github.com/basicallydan/skifree.js) - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
+- [Snake](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and Javascript.
 - [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web.
-- [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer.
+- [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - Classic shoot'em up space shooter build in HTML5 with multiplayer.
 - [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space.
 - [Square Off!](https://github.com/ScriptaGames/SquareOff) - Multiplayer 1v1 air-hockey style game, place squares to deflect the ball.
 - [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJavaScript Framework.
 - [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine.
 - [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
-- [WPilot](https://github.com/jfd/wpilot) - A browser-based remake of the famous XPilot game, built with Node.js and HTML5.
+- [WPilot](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
 - [Zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
 
 ### FPS
@@ -149,36 +142,36 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### RPG
 
-- [Diablo JavaScript](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and JavaScript.
+- [Diablo JavaScript](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at HTML5 canvas and JavaScript.
 - [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
-- [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG.
+- [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. You play as a chubby archeologist who is tasked to retrieve three sacred artifacts from the pyramid of the legendary Pharaohs.
 
 ### MMORPG
 
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment.
 
 ### Strategy
-- [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents!
-- [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Clone of the popular RTS.
-- [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5.
-- [Hexa Battle](https://github.com/itajaja/hb) - A turn based dungeon crawler written with Typescript, using React and SVG.
+- [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents.
+- [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and Javascript.
+- [Freeciv-web](https://github.com/freeciv/freeciv-web) - Build cities, collect resources, organize your government, and build an army, with the ultimate goal of creating the best civilization.
+- [Hexa Battle](https://github.com/itajaja/hb) - Turn based dungeon crawler written with Typescript, using React and SVG.
 - [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5.
 
 ### Racing
 
-- [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, JavaScript and WebGL.
-- [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing.
+- [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game, challenge your friends on this fast-paced 3D game.
+- [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing action, play in your browser with WebGL 3D graphics.
 
 ### Sandbox
 
-- [3d.city](https://github.com/lo-th/3d.city) - 3d city builder game.
-- [Blk Game](https://github.com/morozd/blk-game) - Multiplayer JavaScript/WebGL voxel world game demo.
-- [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL.
+- [3d.city](https://github.com/lo-th/3d.city) - Goal was to build a city in 3D to test the performance of WebGL and and Three.js.
+- [Blk Game](https://github.com/morozd/blk-game) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
+- [Cube Engine](https://github.com/Nurgak/Cube-engine) - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
 
 ### Puzzle
 
 - [2048](https://github.com/gabrielecirulli/2048) - Sliding addition game.
-- [A Dark Room](https://github.com/doublespeakgames/adarkroom) - Minimalist Text Adventure game written in JavaScript.
+- [A Dark Room](https://github.com/hughsk/ludum-dare-27) - Minimalist Text Adventure game written in JavaScript.
 - [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams.
 - [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb.
 - [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm.
@@ -202,7 +195,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Maze 3D](https://github.com/demonixis/Maze3D) - A 3D maze game.
 - [Monkey Rally](https://github.com/antila/ludum-dare-28) - JavaScript game created for the Ludum Dare #28 jam.
 - [Ned Et Les Maki](https://github.com/devnewton/nedetlesmaki) - Puzzle game with isometric 3D graphics inspired by Sokoban.
-- [Orbium](https://github.com/bni/orbium) - Modern version of the 90's game Log!cal.
+- [Orbium](https://github.com/bni/orbium) - Modern version of the 90's game Logical.
 - [Parity](https://github.com/abejfehr/parity) - A numbers puzzle game.
 - [Pond](https://github.com/Zolmeister/pond) - The Pound is about relaxing and exploring a beautiful world.
 - [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart.
@@ -458,7 +451,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [ChoiceScript](https://github.com/dfabulich/choicescript) - A language/engine for developing text-based multiple-choice interactive novels.
 - [Cocos2d for Android](https://github.com/ZhouWeikuan/cocos2d) - Cocos2d for Android, based on cocos2d-android-0.82, and now ported from cocos2d-iphone 0.99.4.
 - [Cocos2d for iPhone](https://github.com/cocos2d/cocos2d-iphone) - Framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-C.
-- [Cocos2d for HTML5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
+- [Cocos2d for HTML5](https://github.com/cocos2d/cocos2d-HTML5) - Cocos2d for Web Browsers. Built using JavaScript.
 - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, macOS, Windows and Linux.
 - [Crafty](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
 - [CutJavaScript](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
