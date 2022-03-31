@@ -170,8 +170,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Puzzle
 
-- [2048](https://github.com/gabrielecirulli/2048) - Sliding addition game.
-- [A Dark Room](https://github.com/hughsk/ludum-dare-27) - Minimalist Text Adventure game written in JavaScript.
+- [2048](https://github.com/gabrielecirulli/2048) - Clone of 1024, based on Saming's 2048.
+- [A Dark Room](https://github.com/hughsk/ludum-dare-27) - Dodge and shoot the red targets, grabbing the bombs as you go. Survive as long as possible and try to get a high score.
 - [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams.
 - [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb.
 - [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm.
