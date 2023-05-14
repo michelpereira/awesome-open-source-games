@@ -232,7 +232,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 - [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame".
 - [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family.
-- [Double Damnation](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement
+- [Double Damnation](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
 
 ## Native
 
