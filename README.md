@@ -156,6 +156,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
 - [Freeciv-web](https://github.com/freeciv/freeciv-web) - Build cities, collect resources, organize your government, and build an army, with the ultimate goal of creating the best civilization.
 - [Hexa Battle](https://github.com/itajaja/hb) - Turn based dungeon crawler written with Typescript, using React and SVG.
+- [Rapid Dominance](https://github.com/wenta/rapid-dominance) - Open source turn-based strategy game. Clone of the Enemy Flag.
 - [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5.
 
 ### Racing
