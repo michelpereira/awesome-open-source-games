@@ -306,6 +306,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Platform
 
+- [AAAAXY](https://github.com/divVerent/aaaaxy) - Nonlinear 2D puzzle platformer taking place in impossible spaces.
 - [Captain Holetooth](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
 - [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
 - [DDraceNetwork](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
