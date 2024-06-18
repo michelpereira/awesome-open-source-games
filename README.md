@@ -372,9 +372,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
 - [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 - [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript.
-- [Mindustry](https://mindustrygame.github.io/) - An open source sandbox tower-defense game
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d).
 - [Micropolis](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
+- [Mindustry](https://mindustrygame.github.io/) - An open source sandbox tower-defense game
 - [Openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 - [OpenDungeons](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous.
 - [OpenFodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
