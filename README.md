@@ -374,7 +374,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript.
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d).
 - [Micropolis](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
-- [Mindustry](https://mindustrygame.github.io/) - An open source sandbox tower-defense game
+- [Mindustry](https://mindustrygame.github.io/) - An open source sandbox tower-defense game.
 - [Openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 - [OpenDungeons](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous.
 - [OpenFodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
