@@ -169,7 +169,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [3d.city](https://github.com/lo-th/3d.city) - Goal was to build a city in 3D to test the performance of WebGL and and Three.js.
 - [Blk Game](https://github.com/morozd/blk-game) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
 - [Cube Engine](https://github.com/Nurgak/Cube-engine) - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
-- [Sandboxels](https://sandboxels.r74n.com/) - Falling-sand experimentation game with over 500 materials to play with
+- [Sandboxels](https://sandboxels.r74n.com/) - Falling-sand experimentation game with over 500 materials to play with.
 
 ### Puzzle
 
