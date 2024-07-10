@@ -351,6 +351,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 - [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
 - [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
+- [Cubyz](https://github.com/PixelGuys/Cubyz) - Cubyz is a fully written in the Zig language. Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 - [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
 - [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
 - [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
