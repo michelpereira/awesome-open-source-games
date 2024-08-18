@@ -239,8 +239,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Native
 
 ### Action
+
 - [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Has a built-in map Editor.
 - [OpenTomb](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
+- [re3-gd](https://github.com/FOSS-Supremacy/re3-gd) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 
 ### Arcade
 
