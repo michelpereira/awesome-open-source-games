@@ -445,7 +445,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Just The Source
 
 - [Aquaria](https://github.com/AquariaOSE/Aquaria) - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
-- [Descent 3](https://github.com/DescentDevelopers/Descent3) - Descent 3 open source engine, licensed under GPL-3.0. 
+- [Descent 3](https://github.com/DescentDevelopers/Descent3) - Pilot a fighter in a six-degree-of-freedom shooter across underground and surface environments.
 - [Doom 3](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source code release.
 - [ID Software](https://github.com/id-Software) - Includes Doom, Quake, Wolfenstein and more.
 - [Jedi Academy](https://github.com/grayj/Jedi-Academy) - Jedi Academy source only, mirror of SourceForge from Raven Software.
