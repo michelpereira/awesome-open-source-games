@@ -462,6 +462,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Frameworks/Engines/Libraries
 
+- [Unreal Engine](https://github.com/EpicGames/Signup) - C++ AAA game engine. It isn't completely free, but you can easily get access to the full source code. https://www.unrealengine.com/
 - [Akihabara](https://github.com/Akihabara/akihabara) - Set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in JavaScript.
 - [Allegro 5](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(graphics, sound, etc.).
 - [Ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
