@@ -369,6 +369,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Pycraft](https://github.com/itsapi/pycraft) - A Minecraft-inspired game for the terminal.
 - [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) - Soft-Body physics simulator for vehicles and more.
 - [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
+- [Starbound](https://github.com/rwf93/Starbound) - Starbound is a 2D sandbox adventure game where players explore a vast procedurally generated universe.
 - [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 - [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
 
