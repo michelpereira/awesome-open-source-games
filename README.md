@@ -380,6 +380,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### Strategy
 
 - [0 A.D.](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II.
+- [Beyond all Reason (BAR)](https://www.beyondallreason.info/) - RTS born from mods of the Total Annihilation on the SpringRTS game engine.
 - [Caesaria](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
 - [Colobot](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
