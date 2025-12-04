@@ -34,6 +34,7 @@ Open source games that have the source code available on GitHub.
 	- [Racing](#racing-1)
 	- [Programming](#programming)
 	- [Sandbox](#sandbox-1)
+	- [Simulation](#simulation)
 	- [Strategy](#strategy-1)
 - [Mobile Games](#mobile-games)
 	- [Android](#android)
@@ -371,6 +372,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
 - [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 - [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+
+### Simulation
+
+- [Hurry Curry!](https://hurrycurry.org) - Cooperative fast-paced multiplayer cooking game.
 
 ### Strategy
 
