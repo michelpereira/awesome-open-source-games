@@ -396,8 +396,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Mindustry](https://mindustrygame.github.io/) - An open source sandbox tower-defense game.
 - [Openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 - [OpenDungeons](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous.
+- [OpenE2140](https://github.com/OpenE2140/OpenE2140) - Remake of Earth 2140 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [OpenFodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
+- [OpenKrush](https://github.com/IceReaper/OpenKrush) - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [OpenRA](https://github.com/OpenRA/OpenRA) - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
+- [OpenSA](https://github.com/Dzierzan/OpenSA) - Remake of Swarm Assault based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
 - [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM.
 - [Pax Britannica](https://github.com/henkboom/pax-britannica) - Underwater one-button real-time strategy game.
@@ -407,7 +410,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
 - [Race into Space](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
+- [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C&C Red Alert 2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
+- [Shattered Paradise](https://github.com/ABrandau/Shattered-Paradise-SDK) - Remake of C&C Tiberian Sun based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 - [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
