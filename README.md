@@ -235,7 +235,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Descensus 2](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
 - [Hauberk](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 - [HeartLine](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
-- [Project: Starfighter](https://github.com/pr-starfighter/starfighter) Space shoot 'em up game.
+- [Project: Starfighter](https://github.com/pr-starfighter/starfighter) - Space shoot 'em up game.
 - [Psiral](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 game, GitHub Game Off 2 winner.
 - [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 - [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame".
