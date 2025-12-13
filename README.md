@@ -295,6 +295,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### MMORPG
 
+- [Open-Ko](https://github.com/Open-KO/KnightOnline) - OpenKO is an open source version of the old school Knight Online MMORPG.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.
 - [Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
 - [Stendhal](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
