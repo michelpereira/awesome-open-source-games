@@ -181,10 +181,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [A Dark Room](https://github.com/hughsk/ludum-dare-27) - Dodge and shoot the red targets, grabbing the bombs as you go. Survive as long as possible and try to get a high score.
 - [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams.
 - [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb.
+- [Aura Points Calculator](https://github.com/noahaust2/strategist-dashboard/tree/master/tools/aura) - Discover your aura type through 12 real-life scenario questions with a downloadable PNG share card. Pure HTML/CSS/JavaScript.
 - [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm.
 - [BitBot](https://github.com/recardona/BitBot) - HTML/JavaScript game where you control a bot, which must sense, plan, and act.
 - [BlicblockJavaScript](https://github.com/cheshire137/blicblock-js) - JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board.
 - [Blockrain.js](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that.
+- [Brain Rot Diagnostic](https://github.com/noahaust2/strategist-dashboard/tree/master/tools/brain-rot) - 18-question clinical-style assessment across 6 brain rot dimensions with severity grades and a downloadable PNG diagnostic report. Pure HTML/CSS/JavaScript.
 - [Branching Out](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home.
 - [Clone Man](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics.
 - [Couch 2048](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game.
@@ -197,6 +199,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Hex 2048](https://github.com/jeffhou/hex-2048) - Hexgrid-based clone of 2048.
 - [Hexahedral](https://github.com/mminer/hexahedral) - Push down all the blocks in the minimum number of moves.
 - [Hextris](https://github.com/Hextris/hextris) - Addictive puzzle game inspired by Tetris.
+- [How Chronically Online Are You?](https://github.com/noahaust2/strategist-dashboard/tree/master/tools/online) - 15-question quiz measuring internet habits across 5 categories with interactive radar chart and shareable PNG scorecard. Pure HTML/CSS/JavaScript.
 - [Infectors](https://github.com/satanas/infectors) - Sokoban-like puzzle game developed with Phaser.
 - [Lost! Beneath the Surface](https://github.com/gamedolphin/Lost-Beneath-The-Surface) - You're a firefly lost in the dark, beneath the surface and must find a way out of the mazes created by the horrors in the dark.
 - [Maze 3D](https://github.com/demonixis/Maze3D) - A 3D maze game.
@@ -391,7 +394,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Curse of War](https://github.com/a-nikolaev/curseofwar) - Fast-paced action strategy game with ncurses and SDL frontends.
 - [Harris](https://github.com/ec429/harris) - Strategy game based around the actions of RAF Bomber Command in the Second World War.
 - [Hedgewars](https://github.com/hedgewars/hw) - A turn based strategy, artillery, action and comedy game.
-- [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
+- [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of "Knights and Merchants"  written in Delphi from scratch.
 - [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 - [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript.
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d).
