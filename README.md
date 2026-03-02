@@ -38,7 +38,7 @@ Open source games that have the source code available.
 	- [Strategy](#strategy-1)
 - [Mobile Games](#mobile-games)
 	- [Android](#Android)
-	- [iOS](#ios)
+	- [iOS](#iOS)
 - [Chat bots](#chat-bots)
 - [Just The Source](#just-the-source)
 - [Frameworks/Engines/Libraries](#frameworksengineslibraries)
