@@ -313,6 +313,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - An open source game based on the source code of Pixel Dungeon by Watabou.
 - [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - Sequel to The Legend of Zelda: A Link to the Past released on the SNES.
 - [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
+- [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) - World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on MIPS R4300i at 60 tok/s. Zelda-style dungeon crawler with AI NPCs. Built with libdragon SDK.
 
 ### Platform
 
