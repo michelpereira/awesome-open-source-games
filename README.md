@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/michelpereira-awesome-open-source-games-badge.png)](https://mseep.ai/app/michelpereira-awesome-open-source-games)
+
 # Awesome Open Source Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <!-- Uncomment the awesome badge when the repository is added to awesome main list.
