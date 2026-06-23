@@ -161,6 +161,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment.
 - [Reia](https://www.playreia.com) - RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
+- [Veilbound](https://veilbound.gg) - Free 3D browser MMORPG with nine classes, dungeons, guilds, and PvP duels, built with three.js.
 
 ### Strategy
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents.
