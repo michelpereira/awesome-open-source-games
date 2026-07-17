@@ -232,6 +232,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 - [The House](https://github.com/arturkot/the-house-game) - You're in a strange house. Can you find the way out? Is there any?
 
+### Geography
+
+- [World Chase](https://github.com/JezKirkpatrick/WorldChase) - Competitive weekly geography game. Decode cryptic riddles to find real-world locations on a map. Global leaderboard, VS duels, 25 new challenges every week. [Play it now!](https://www.worldchase.net/)
+- [Kids World Chase](https://github.com/JezKirkpatrick/kids-world-chase) - Weekly geography adventure for children aged 8-13. Solve riddles, explore real locations via Google Street View. [Play it now!](https://www.kidsworldchase.net/)
+
 ### Others
 
 - [Beast](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
