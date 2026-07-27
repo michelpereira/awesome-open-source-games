@@ -72,6 +72,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
 - [c4](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
 - [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.
+- [Duet (Veiled Dominion)](https://github.com/Loptr-Lab/duet-solo-hackathon) - Open-source asymmetric chess variant with an inverted win condition — the game ends when your transformed piece loses control, not when your immobile king is threatened. Includes an AI opponent, remote multiplayer, and an optional fog-of-war mode.
 - [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript.
 - [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 - [Chessmata](https://github.com/jonradoff/chessmata) - Open-source multiplayer chess platform for humans and AI agents, with real-time WebSocket gameplay, Elo-based matchmaking, 3D browser board (Three.js), MCP server, and UCI-compatible CLI. Built with Go and React.
