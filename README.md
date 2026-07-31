@@ -22,6 +22,7 @@ Open source games that have the source code available.
 	- [Puzzle](#puzzle)
 	- [Clicker](#clicker)
 	- [Point and Click](#point-and-click)
+	- [Geography](#geography)
 	- [Others](#others)
 - [Native](#native)
 	- [Action](#action)
