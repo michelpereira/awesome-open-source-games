@@ -444,6 +444,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Android
 
+- [Braincup](https://github.com/SimonSchubert/Braincup) - Memory, focus & math trainer.
 - [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 - [Colorphun](https://github.com/prakhar1989/colorphun) - Simple color based Android Game.
 - [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules.
