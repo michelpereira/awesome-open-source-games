@@ -77,6 +77,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 - [Chessmata](https://github.com/jonradoff/chessmata) - Open-source multiplayer chess platform for humans and AI agents, with real-time WebSocket gameplay, Elo-based matchmaking, 3D browser board (Three.js), MCP server, and UCI-compatible CLI. Built with Go and React.
 - [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
+- [Pip](https://playpip.io) - Single-player Texas Hold'em against AI opponents with distinct playing styles. Play money only, no account needed, installs as a PWA and works offline. [Source](https://github.com/playpip/pip-web), MIT.
 - [Wolfcha](https://github.com/oil-oil/wolfcha) - AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs. Built with Next.js and TypeScript.
 
 
