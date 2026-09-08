@@ -225,6 +225,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Matching Pairs](https://github.com/gamedolphin/matching-pairs) - Made in HTML5 using Phaser as the framework, original assets and generated music.
 - [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban.
 - [Zop](https://github.com/Zolmeister/zop) - Connect like colors.
+- [Puzzle Games](https://github.com/sidhant947/puzzle) - Collection of 200+ minimalistic puzzle games.
 
 ### Clicker
 
@@ -457,6 +458,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 - [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
 - [ZapZap](https://github.com/noubar/zapzap) - Very simple reaction measuring game that can also be played together on the same device.
+- [Puzzle Games](https://github.com/sidhant947/puzzle) - Collection of 200+ minimalistic puzzle games.
 
 ### iOS
 
