@@ -381,7 +381,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
 - [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 - [Manic Digger](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone.
-- [Minetest](https://github.com/minetest/minetest) - Infinite-world block sandbox game with survival and crafting.
+- [Luanti](https://github.com/luanti-org/luanti) - Open-source voxel game engine and platform. Formerly called Minetest.
 - [Pycraft](https://github.com/itsapi/pycraft) - A Minecraft-inspired game for the terminal.
 - [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) - Soft-Body physics simulator for vehicles and more.
 - [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Voxel-based sandbox game set in an asteroid field in space.
