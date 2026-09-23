@@ -130,7 +130,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Raging Gardens](https://github.com/kenamick/game-off-2012) - JavaScript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
 - [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
 - [Save The Forest](https://github.com/softvar/save-the-forest) - Fully canvas based HTML5 game where a player has to extinguish fire on tress using his magical water tank in order to save the Burning Forests.
-- [SKALP](https://github.com/amudotcom-byte/skalp) - 60-second trading-floor reflex game. Go long or short, ride the chart, close before it reverses — and don't get liquidated.
 - [Ski Free](https://github.com/basicallydan/skifree.js) - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
 - [Snake](https://github.com/xurxodiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
 - [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web.
@@ -574,7 +573,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Halo::Reach::API](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API.
 - [IodineGBA](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 - [Itch](https://github.com/itchio/itch) - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
-- [JavaScript Breakouts](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of Breakout.
 - [Leaderboard(Java)](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in Java).
 - [Leaderboard(PHP)](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis(in PHP).
 - [Leaderboard(Python)](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in Python).
