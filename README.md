@@ -563,6 +563,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Urho3D](https://github.com/urho3d/Urho3D) - Free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
 - [Wurfel Engine](https://github.com/BSVogler/WurfelEngineSDK) - An isometric game engine for games with an open world made of blocks or voxels.
 - [XLE](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
+- [Nu Game Engine](https://github.com/bryanedds/Nu) - Functional 2D and 3D cross-platform game engine built in F#.
 
 ## Maps/Hacks/Plugins/Utilities/All of the Things™
 
