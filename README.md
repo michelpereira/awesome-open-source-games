@@ -238,6 +238,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 - [Beast](https://github.com/dominikwilkowski/beast) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
 - [Binb](https://github.com/lpinca/binb) - Competitive, multiplayer, realtime, guess the song game.
+- [BJJGraph](https://github.com/diogoseca/bjjgraph) - Brazilian jiu-jitsu as a turn-based state machine: from each position the player picks a move from the legal hand, and the outcome is drawn against authored success rates. HTML5 canvas, no game engine.
 - [CyberPong](https://github.com/georgegognadze/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
 - [Dental Defender: Saga of the Candy Horde](https://github.com/cshepp/candyjam) - HTML5 shooter/tower defense game for the #CandyJam.
 - [Descensus 2](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
