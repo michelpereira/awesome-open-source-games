@@ -86,6 +86,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Arcade
 
+- [Trick or Take](https://github.com/zicojiao/trick-or-take) - Multiplayer Halloween party web game built with vanilla Canvas 2D, Agora RTC voice chat, and Cloudflare Workers edge. Play live at [trickortake.com](https://trickortake.com).
 - [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - Help Alge escape by moving through the levels to the escape tube.
 - [Alien Invasion](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
 - [Arashi](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest. Survive as long as possible and score many points as possible.
