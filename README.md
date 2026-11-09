@@ -161,6 +161,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Diablo JavaScript](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at HTML5 canvas and JavaScript.
 - [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
 - [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. You play as a chubby archeologist who is tasked to retrieve three sacred artifacts from the pyramid of the legendary Pharaohs.
+- [Daoyou (万界道友)](https://github.com/ChurchTao/Daoyou) - Chinese-language text-based cultivation RPG with turn-based combat, sect progression and spirit beasts. Currently free; registration required.
 
 ### MMORPG
 
