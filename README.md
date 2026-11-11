@@ -72,7 +72,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 - [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
 - [c4](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
-- [Daily Word Hunt](https://github.com/s87343472/daily-word-hunt) - Free browser daily word search (find-the-word). New puzzle every day, themed series, print packs. [Play](https://words.sagasu.art/)
+- [Daily Word Hunt](https://github.com/s87343472/daily-word-hunt) - Free browser daily word search (find-the-word). New puzzle every day, themed series, print packs.
 - [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.
 - [Duet (Veiled Dominion)](https://github.com/Loptr-Lab/duet-solo-hackathon) - Open-source asymmetric chess variant with an inverted win condition — the game ends when your transformed piece loses control, not when your immobile king is threatened. Includes an AI opponent, remote multiplayer, and an optional fog-of-war mode.
 - [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript.
@@ -88,7 +88,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Arcade
 
-- [Trick or Take](https://github.com/zicojiao/trick-or-take) - Multiplayer Halloween party web game built with vanilla Canvas 2D, Agora RTC voice chat, and Cloudflare Workers edge. Play live at [trickortake.com](https://trickortake.com).
+- [Trick or Take](https://github.com/zicojiao/trick-or-take) - Multiplayer Halloween party web game built with vanilla Canvas 2D, Agora RTC voice chat, and Cloudflare Workers edge.
 - [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - Help Alge escape by moving through the levels to the escape tube.
 - [Alien Invasion](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
 - [Arashi](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest. Survive as long as possible and score many points as possible.
@@ -243,8 +243,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Geography
 
-- [World Chase](https://github.com/JezKirkpatrick/WorldChase) - Competitive weekly geography game. Decode cryptic riddles to find real-world locations on a map. Global leaderboard, VS duels, 25 new challenges every week. [Play it now!](https://www.worldchase.net/)
-- [Kids World Chase](https://github.com/JezKirkpatrick/kids-world-chase) - Weekly geography adventure for children aged 8-13. Solve riddles, explore real locations via Google Street View. [Play it now!](https://www.kidsworldchase.net/)
+- [World Chase](https://github.com/JezKirkpatrick/WorldChase) - Competitive weekly geography game. Decode cryptic riddles to find real-world locations on a map. Global leaderboard, VS duels, 25 new challenges every week.
+- [Kids World Chase](https://github.com/JezKirkpatrick/kids-world-chase) - Weekly geography adventure for children aged 8-13. Solve riddles, explore real locations via Google Street View.
 
 ### Others
 
