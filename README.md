@@ -146,6 +146,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - One level written with Backbone Game Engine.
 - [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
 - [WPilot](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
+- [Wave Rider Nusantara](https://github.com/abusofianid/game-wave-rider-nusantara) - Arcade game inspired by Indonesian culture, featuring the legendary character Gatot Kaca and traditional Batik patterns. Built with React and JavaScript.
 - [Zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
 - [111 one-button games](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
 
@@ -189,6 +190,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [3d.city](https://github.com/lo-th/3d.city) - Goal was to build a city in 3D to test the performance of WebGL and and Three.js.
 - [Blk Game](https://github.com/morozd/blk-game) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
 - [Cube Engine](https://github.com/Nurgak/Cube-engine) - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
+- [Cubyz](https://github.com/PixelGuys/Cubyz) - Open voxel simulation game in active development with building, crafting and survival mechanics. Licensed under GPL3.
 - [Sandboxels](https://github.com/R74nCom/sandboxels) - Falling-sand experimentation game with over 500 materials to play with.
 - [The Human Box](https://github.com/1homsi/thehumanbox) - Browser civilization sandbox where tribes invent their own languages, cultures and beliefs.
 
