@@ -77,7 +77,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Duet (Veiled Dominion)](https://github.com/Loptr-Lab/duet-solo-hackathon) - Open-source asymmetric chess variant with an inverted win condition — the game ends when your transformed piece loses control, not when your immobile king is threatened. Includes an AI opponent, remote multiplayer, and an optional fog-of-war mode.
 - [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JavaScript.
 - [Kriegspiel](https://github.com/binarymax/kriegspiel) - Game of imperfect information, the Kriegspiel chess variant.
-- [Chessmata](https://github.com/jonradoff/chessmata) - Open-source multiplayer chess platform for humans and AI agents, with real-time WebSocket gameplay, Elo-based matchmaking, 3D browser board (Three.js), MCP server, and UCI-compatible CLI. Built with Go and React.
+- [Chessmata](https://github.com/metavert-io/chessmata) - Open-source multiplayer chess platform for humans and AI agents, with real-time WebSocket gameplay, Elo-based matchmaking, 3D browser board (Three.js), MCP server, and UCI-compatible CLI. Built with Go and React.
 - [Lichess](https://github.com/lichess-org/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
 - [Patzer](https://github.com/SikamikanikoBG/patzer) - Self-hosted Chess.com alternative: game review, play vs Stockfish or a friend, and an AI coach on your own LLM (Ollama/vLLM), in one Docker container.
 - [Parlour](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy browser table for Blitz and Wild.
