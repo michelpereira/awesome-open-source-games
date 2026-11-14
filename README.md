@@ -147,6 +147,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
 - [WPilot](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
 - [Wave Rider Nusantara](https://github.com/abusofianid/game-wave-rider-nusantara) - Arcade game inspired by Indonesian culture, featuring the legendary character Gatot Kaca and traditional Batik patterns. Built with React and JavaScript.
+- [XPilot TNG](https://github.com/birgander2/XPilot-TNG) -  Modernized SDL3 fork of the classic 90s multiplayer space combat game XPilot, featuring improved graphics, smartbots, and voice chat.
 - [Zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
 - [111 one-button games](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
 
