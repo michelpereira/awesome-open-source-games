@@ -194,6 +194,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Cubyz](https://github.com/PixelGuys/Cubyz) - Open voxel simulation game in active development with building, crafting and survival mechanics. Licensed under GPL3.
 - [Sandboxels](https://github.com/R74nCom/sandboxels) - Falling-sand experimentation game with over 500 materials to play with.
 - [The Human Box](https://github.com/1homsi/thehumanbox) - Browser civilization sandbox where tribes invent their own languages, cultures and beliefs.
+- [ThingsPool](https://github.com/architsch/youngjin) - Multiplayer 3D sandbox of voxel rooms where people in browsers and AI agents build, chat and explore together.
 
 ### Puzzle
 
