@@ -409,6 +409,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### Simulation
 
 - [Hurry Curry!](https://hurrycurry.org) - Cooperative fast-paced multiplayer cooking game.
+- [OpenBeach](https://github.com/h4570/openbeach) - Open-source C++20/SDL3 engine reimplementation of Beach Life (2002), playable on Windows, Linux, macOS, and in the browser via WebAssembly.
 
 ### Strategy
 
