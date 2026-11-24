@@ -179,6 +179,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Freeciv-web](https://github.com/freeciv/freeciv-web) - Build cities, collect resources, organize your government, and build an army, with the ultimate goal of creating the best civilization.
 - [Hexa Battle](https://github.com/itajaja/hb) - Turn based dungeon crawler written with TypeScript, using React and SVG.
 - [Rapid Dominance](https://github.com/wenta/rapid-dominance) - Open source turn-based strategy game. Clone of the Enemy Flag.
+- [Stard](https://github.com/armanckeser/stard) - Auto-battler where each repo you've starred on GitHub is a card. Buy cards from a shop, place them on the board and fight other players' teams.
 - [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5.
 
 ### Racing
