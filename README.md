@@ -475,6 +475,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
 - [ZapZap](https://github.com/noubar/zapzap) - Very simple reaction measuring game that can also be played together on the same device.
 
+- [Emberdelve](https://github.com/tapiwamakandigona/emberdelve) - Fair-dice roguelite for Android built with Flutter and pure Dart, featuring deterministic simulation, daily delves, and 5-language localization.
+
 ### iOS
 
 - [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs) - Arcade game about a bug-craving bat.
